@@ -43,7 +43,7 @@ Diagrams show **logical energy flow**, not physical layout:
 - **Diamonds `φ0…φn`:** Phase-governed, adiabatic steps  
 - **Energy loss:** Only at explicit configuration or measurement boundaries  
 
-See [`figures/RPC_vs_FeedForward_Schematic.svg`](figures/RPC_vs_FeedForward_Schematic.svg) for reference.
+See [`figures/RPC_vs_FeedForward_Schematic.svg`](figures/Reversible photonic computing energy flow.png) for reference.
 
 ---
 
